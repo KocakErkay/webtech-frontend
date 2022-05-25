@@ -1,0 +1,26 @@
+{
+  "name": "webtech-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KocakErkay/webtech-frontend.git"
+  },
+  "author": "Erkay, Robin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KocakErkay/webtech-frontend/issues"
+  },
+  "homepage": "https://github.com/KocakErkay/webtech-frontend#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-vue": "^9.0.1",
+    "jest": "^28.1.0"
+  }
+}
